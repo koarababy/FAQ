@@ -1,0 +1,32 @@
+body{
+	background: #fff0f5;
+}
+
+.accordion {
+	width: 500px;
+	margin: 0 auto;
+}
+
+.faq-title{
+	margin: 0;
+	padding: 10px;
+	background: #fff;
+	font-size: 30px;
+}
+
+.accordion-trigger {
+	margin: 0;
+	padding: 10px;
+	display: block;
+	background-color: #333;
+	color: #fff;
+	border-top: 1px solid #fff;
+}
+
+.accordion-contents {
+	margin: 0;
+	padding: 10px;
+	border: 1px solid #ccc;
+	background: #fff;
+	display: none;
+}
